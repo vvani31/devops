@@ -7,9 +7,9 @@ We have installed Bahmni manuallly on Centos Machine sucessfully, please find th
 update
 ![Preview](./images/Bahmni-installationoutput.png)
 
-![Preview](./images/BahmniHomePage.PNG)
+![Preview](./images/BahmniEMRlogin.png)
 
-![Preview](./images/BahmniEMRlogin.PNG)
+![Preview](./images/BahmniEMRlogin.png)
 
 
 2.  Installing with Jenkins freestyle

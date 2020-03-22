@@ -5,11 +5,11 @@ We have completed Bahmni installation successfully.
 1. Manual Installation
 We have installed Bahmni manuallly on Centos Machine sucessfully, please find the screen shots.
 
-![Preview](../images/Bahmni-installationoutput.PNG)
+![Preview](./Bahmni%20Installation/images/Bahmni-installationoutput.PNG)
 
-![Preview](./images/BahmniHomePage.PNG)
+![Preview](./Bahmni%20Installation/images/BahmniHomePage.PNG)
 
-![Preview](./images/BahmniEMRlogin.PNG)
+![Preview](./Bahmni%20Installation/images/BahmniEMRlogin.PNG)
 
 
 2.  Installing with Jenkins freestyle

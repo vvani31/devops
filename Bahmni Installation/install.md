@@ -1,4 +1,4 @@
-# Bhamani Application Deployment
+# Bahmni Application Deployment
 
 We have completed Bahmni installation successfully.
 
